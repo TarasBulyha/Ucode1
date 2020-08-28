@@ -1,0 +1,3 @@
+#!/bin/bash
+TOP="`dirname $0`/.."
+$TOP/runner/bin/tankode-runner "$@"
